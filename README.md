@@ -1,5 +1,5 @@
 ### Hi I'm Nayeema👋 
-I am a computer science undergrad and tech enthusiast from Bangladesh. As an computer science undergrad I've keen interest in algorithm and data structures along with problem solving. In coming future interested in full stack development.I code in C/C++ and store them in git and not coding I love rooftop gardening.  <br><br>
+I am a computer science undergrad and tech enthusiast from Bangladesh. As an computer science undergrad I've keen interest in algorithm and data structures along with problem solving. In coming future, interested in full stack development. I code in C/C++ and store them in git and while not coding I love rooftop gardening.  <br><br>
 Currently pursing my undergrad degree in Computer Science and Engineering from University of Asia Pacific.
 
 - 🌱 I’m currently learning HTML, CSS, JS, Algorithom 
